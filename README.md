@@ -4,6 +4,7 @@ This repository contains code for a responsive sidebar menu built using HTML, CS
 
 ## Preview
 
+<img src= "image2.png" alt = "Side bar menu page">
 <img src= "image.png" alt = "Side bar menu page">
 
 ## Features
